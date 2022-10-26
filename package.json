@@ -1,0 +1,10 @@
+{
+  "name": "root",
+  "packageManager": "yarn@3.2.1",
+  "workspaces": [
+    "packages/*"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
